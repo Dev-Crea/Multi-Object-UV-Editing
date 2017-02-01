@@ -25,8 +25,10 @@ bl_info = {
     "version": (0, 9, 8),
     "blender": (2, 7, 4),
     "location": "Object Tools",
-    "description": """This Addon enables a quick way to create one UV Layout
-    for multiple objects.""",
+    "description": (
+        "This Addon enables a quick way to create one UV Layout for "
+        "multiple objects."
+    ),
     "warning": "",
     "wiki_url": "",
     "tracker_url": "",
